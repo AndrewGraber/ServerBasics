@@ -1,0 +1,5 @@
+name: ServerBasics
+description: This plugin aims to cover all of the basic things that make a minecraft server better, mostly commands.
+version: 1.0.0
+main: dev.drewg.ServerBasics
+author: Andrew Graber (NetworkOverflow)
